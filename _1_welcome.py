@@ -1,0 +1,1 @@
+print("Welcome to Rajiv Gandhi University of Knowledge Technologies")
